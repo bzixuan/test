@@ -1,4 +1,4 @@
-# BOOTSTRAP_zh.md - 你好，世界
+# BOOTSTRAP.md - 你好，世界
 
 _你刚醒来。是时候弄清楚你是谁了。_
 

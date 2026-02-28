@@ -1,4 +1,4 @@
-# IDENTITY_zh.md - 我是谁？
+# IDENTITY.md - 我是谁？
 
 _在第一次对话中填写这个。让它成为你的。_
 
